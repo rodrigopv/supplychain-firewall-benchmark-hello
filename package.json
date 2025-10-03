@@ -1,9 +1,10 @@
 {
   "name": "supplychain-firewall-benchmark-hello",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Benchmark package for testing SCA and repository firewall behavior. v1.0.0 is safe and prints \"Hello World\".",
   "main": "index.js",
   "bin": {
+    "supplychain-firewall-benchmark-hello": "index.js",
     "scfbh": "index.js"
   },
   "repository": {
