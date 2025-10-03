@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-console.log("Hello world from supplychain-firewall-benchmark-hello v1.0.0. First version is just a happy and clean package :D");
+console.log("Hello world from supplychain-firewall-benchmark-hello v1.10.0. This package contains an EICAR test string, AVs may not like this.");
