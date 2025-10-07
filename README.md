@@ -8,11 +8,14 @@ A benign benchmark package to evaluate how SCA tools and repository firewalls be
 npx supplychain-firewall-benchmark-hello
 # or, after installing globally
 scfbh
+```
+
 
 ## Output
 ```
 Hello world from supplychain-firewall-benchmark-hello v1.0.0. First version is just a happy and clean package :D
 ```
+
 
 
 ## Versions
