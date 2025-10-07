@@ -23,3 +23,5 @@ v1.0.0 is safe and side-effect-free.
 Later versions may include controlled test artifacts (EICAR test file, obfuscated install hook) for research purposes.
 
 v1.10.0 includes an EICAR test file. This may trigger some AV alarms.
+
+v1.10.1 pushes a small update to the entrypoint with suspicious obfuscated code.
